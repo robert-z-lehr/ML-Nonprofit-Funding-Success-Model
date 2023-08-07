@@ -29,11 +29,11 @@ The purpose of this project is to create a binary classifier using machine learn
 7. **Model Evaluation**:
    - After training, the model's performance is  evaluated on the test set using `evaluate()`. The function returns the loss and accuracy of the model on the test data.
 
-The loss value of `0.5349` and accuracy value of `0.7400` mean the following:
+The loss value of `0.5583` and accuracy value of `0.7290` mean the following:
 
-- Loss: The loss value represents how well the model's predictions match the true labels (`y_test`) on the test set. In binary classification with cross-entropy loss, a lower value is better, indicating that the model's predictions are closer to the true labels. In this case, a loss of `0.5349` means the model's predictions are reasonably close to the true labels.
+- Loss: The loss value represents how well the model's predictions match the true labels (`y_test`) on the test set. In binary classification with cross-entropy loss, a lower value is better, indicating that the model's predictions are closer to the true labels. In this case, a loss of `0.5583` means the model's predictions are reasonably close to the true labels.
 
-- Accuracy: The accuracy value represents the percentage of correctly predicted instances in the test set. An accuracy of `0.7400` means that the model correctly predicts the outcome for `74%` of the test instances.
+- Accuracy: The accuracy value represents the percentage of correctly predicted instances in the test set. An accuracy of `0.7290` means that the model correctly predicts the outcome for `72.90%` of the test instances.
 
 ## 8, Optimization:
 To potentially improve the accuracy and loss values, these optimization techqniques were considered:
