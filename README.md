@@ -1,6 +1,12 @@
 ## Purpose and Goal
 The purpose of this project is to create a binary classifier using machine learning and neural networks to predict the success of funding applicants for the nonprofit foundation Alphabet Soup. The goal is to develop a model that can effectively identify organizations with the best chance of success in their ventures when funded by Alphabet Soup.
 
+## Tools
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+- TensorFlow and Keras
+
 ## Workflow Steps:
 
 1. **Data Preprocessing:**
